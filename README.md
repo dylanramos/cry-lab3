@@ -1,4 +1,4 @@
-# CRY Labo 3 - Dylan Oliveira Ramos
+# CRY Labo 3
 
 ## 1. "Encryption"
 
